@@ -1,0 +1,3 @@
+numpy>=1.24
+pyglet>=2.0
+pyinstaller>=6.0
